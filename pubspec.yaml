@@ -24,7 +24,7 @@ dependencies:
   image_picker_for_web: 2.1.10
   riverpod_annotation: 1.2.1
   flutter_colorpicker: 1.0.3
-  image: 4.0.15
+  image: 4.5.2
 
 dev_dependencies:
   flutter_test:
